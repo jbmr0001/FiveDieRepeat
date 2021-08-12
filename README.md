@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/78794703/115151280-7b458d80-a06c-11eb-8ca0-aa05820e50dd.png)
 
 
+Desarrollado por Juan Bautista Muñoz Ruiz, Carlos Barrigas Nuñez, Alberto Expósito García y Esteban Jódar Pozo para la Asignatura Desarrollo Ágil
 ## SPRINT 0
 
 ### Descripción del juego
